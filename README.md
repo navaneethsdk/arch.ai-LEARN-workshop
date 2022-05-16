@@ -11,10 +11,11 @@
 - Install Python
 - Install and active `virtualenv`
 - Install all the dependencies into the environment
-```pip install -r requirements.txt```
-- Run the program
-```
-cd Day1
-python hand_tracker.py
 
-```
+`pip install -r requirements.txt`
+
+- Run the program
+
+`cd Day1`
+
+`python hand_tracker.py`
