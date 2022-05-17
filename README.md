@@ -3,9 +3,7 @@
 ### Day 1
 - Designed and developed a basic hand tracker using mediapipe
 ### Day 2
-- Coming soon
-### Day 3
-- Coming soon
+- Performed Classification on detected hand landmark points
 
 ## How to run
 - Install Python and git
